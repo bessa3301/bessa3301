@@ -17,6 +17,7 @@
 - 💬 Ask me about **Vue, code reviews and Large Systems.**
 - 📫 How to reach me **bessa.3301@gmail.com**
 - ⚡ Fun fact **You will want me in a nerf war**
+- Note: Most of my code is in private repos. Not only in github, but also gitlab and bitbucket. In order to know me better I advise you to network with me :)
 
 ## Connect with me:
 
