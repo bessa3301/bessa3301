@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, my name is Bessa</h1>
+<h1 align="center">Hi 👋, my name is Bessa! Nice to meet you.</h1>
 
-### The most hardworking `from-anywhere` developer you will meet.
+### I am a Fullstack Developer
 
 <br/>
 
@@ -12,12 +12,11 @@
 
 <br/>
 
-- 🔭 I’m currently working on [Uspek Metrics](uspekmetrics.com)
+- 🔭 I’m currently working on Business Process Automation
 - 👯 I collaborate on [Kool.dev (docker made easy)](https://kool.dev)
-- 👨‍💻 All of my projects are available at [b3ssa.com](b3ssa.com)
 - 💬 Ask me about **Vue, code reviews and Large Systems.**
-- 📫 How to reach me **+1 (971) 988 - 0588**
-- ⚡ Fun fact **I make great pancakes!**
+- 📫 How to reach me **bessa.3301@gmail.com**
+- ⚡ Fun fact **You will want me in a nerf war**
 
 ## Connect with me:
 
